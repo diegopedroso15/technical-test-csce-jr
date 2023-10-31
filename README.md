@@ -9,7 +9,7 @@ Um formulário HTML com os seguintes campos:
 
 - Nome (campo de texto)
 - Email (campo de texto)
-- Senha (campo de texto)
+- Senha (campo de password)
 - Idade (campo numérico)
 - Cidade (campo de texto)
 - Use PHP para processar o formulário e salvar os dados inseridos no banco de dados (MySQL ou PostgreSQL).
